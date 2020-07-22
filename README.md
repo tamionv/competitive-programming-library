@@ -1,1 +1,3 @@
-# competitive-programming-library
+# Competitive programming library
+
+Written in C++.
